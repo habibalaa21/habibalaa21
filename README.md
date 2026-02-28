@@ -21,11 +21,6 @@ I care about clean code, user experience, and delivering high-quality work.
 
 ---
 
-## 📄 My CV
-You can view my CV here:  
-[Download CV](./Habiba-Alaa-CV.pdf)
-
----
 
 ## 🔗 Connect with Me
 - LinkedIn: Public profile & URL
